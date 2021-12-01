@@ -24,7 +24,7 @@ My personal favorites
 
 
 **\[Cool Stuff\]**
-
+- [Energy Charts](https://energy-charts.info/?l=de&c=DE)
 
 **\[Online Tools\]**
 - [Codepad](https://codepad.co/)
