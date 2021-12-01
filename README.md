@@ -19,6 +19,11 @@ My personal favorites
 - [Compilerbau](https://linktr.ee/compilerbau)
 
 
+**\[Audio\]**
+- [Vital Synth](https://vital.audio/)
+- [Sonic Pi](https://sonic-pi.net/)
+
+
 **\[Arts & Culture\]**
 - [BR2 Hörspiel und Medienkunst](https://www.br.de/radio/bayern2/sendungen/hoerspiel-und-medienkunst/index.html)
 
