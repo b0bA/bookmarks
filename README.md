@@ -26,6 +26,7 @@ My personal favorites
 
 **\[Arts & Culture\]**
 - [BR2 Hörspiel und Medienkunst](https://www.br.de/radio/bayern2/sendungen/hoerspiel-und-medienkunst/index.html)
+- [DichterLesen.net](https://www.dichterlesen.net/)
 
 
 **\[Cool Stuff\]**
