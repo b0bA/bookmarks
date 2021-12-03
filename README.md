@@ -35,3 +35,9 @@ My personal favorites
 **\[Online Tools\]**
 - [Codepad](https://codepad.co/)
 - [Ideone](https://ideone.com/)
+
+
+**\[Games\]**
+- [Townscraper](https://oskarstalberg.com/Townscaper)
+- [NAND-Game](https://nandgame.com/)
+- [D3wasm](https://wasm.continuation-labs.com/d3demo/)
