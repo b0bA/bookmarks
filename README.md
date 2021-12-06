@@ -9,6 +9,7 @@ My personal favorites
 - [Daniel Shiffman](https://shiffman.net/)
 - [Shadertoy](https://www.shadertoy.com/)
 - [WebGL Fundamentals](https://webglfundamentals.org/)
+- [PyVideo](https://pyvideo.org/)
 
 
 **\[Music\]**
