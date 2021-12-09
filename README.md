@@ -3,6 +3,9 @@ My personal favorites
 
 **\[Bike\]**
 
+**\[Math\]**
+- [Vector Calculus](https://www.math.brown.edu/ysulyma/f21-math180/)
+
 
 **\[Computer Science\]**
 - [Red Blob Games (Amit Patel)](https://www.redblobgames.com/)
@@ -43,3 +46,4 @@ My personal favorites
 - [NAND-Game](https://nandgame.com/)
 - [D3wasm](https://wasm.continuation-labs.com/d3demo/)
 - [Cracking the Cryptic - Spreadsheet](https://docs.google.com/spreadsheets/d/1rVqAjm-l_Urjd3TNmIc3SmTmz_OlgSoBuhY7RPgiuRg/edit#gid=1360888032)
+
