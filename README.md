@@ -13,6 +13,7 @@ My personal favorites
 - [Shadertoy](https://www.shadertoy.com/)
 - [WebGL Fundamentals](https://webglfundamentals.org/)
 - [PyVideo](https://pyvideo.org/)
+- [Python - Speedsheet](https://speedsheet.io/s/python)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 
 
