@@ -15,6 +15,7 @@ My personal favorites
 - [PyVideo](https://pyvideo.org/)
 - [Python - Speedsheet](https://speedsheet.io/s/python)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
 
 
 **\[Music\]**
