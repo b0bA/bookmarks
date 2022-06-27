@@ -38,6 +38,7 @@ My personal favorites
 
 **\[Cool Stuff\]**
 - [Energy Charts](https://energy-charts.info/?l=de&c=DE)
+- [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 
 **\[Online Tools\]**
 - [Codepad](https://codepad.co/)
