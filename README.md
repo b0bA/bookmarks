@@ -7,7 +7,7 @@ My personal favorites
 - [Vector Calculus](https://www.math.brown.edu/ysulyma/f21-math180/)
 
 
-**\[Computer Science\]**
+**\[Computer Science & Programming\]**
 - [Red Blob Games (Amit Patel)](https://www.redblobgames.com/)
 - [Daniel Shiffman](https://shiffman.net/)
 - [Shadertoy](https://www.shadertoy.com/)
@@ -16,6 +16,7 @@ My personal favorites
 - [Python - Speedsheet](https://speedsheet.io/s/python)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
+- [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 **\[Music\]**
