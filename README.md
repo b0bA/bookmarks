@@ -45,6 +45,7 @@ My personal favorites
 - [Codepad](https://codepad.co/)
 - [Ideone](https://ideone.com/)
 - [carbon - code image generator](https://carbon.now.sh/)
+- [Mermaid - chart generator](https://mermaid.live/)
 
 **\[Games\]**
 - [Townscraper](https://oskarstalberg.com/Townscaper)
