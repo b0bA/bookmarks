@@ -46,6 +46,9 @@ My personal favorites
 - [Ideone](https://ideone.com/)
 - [carbon - code image generator](https://carbon.now.sh/)
 - [Mermaid - chart generator](https://mermaid.live/)
+- [Graphtoy](https://graphtoy.com/)
+- [Shadertoy](https://www.shadertoy.com/)
+- [Hexed.it](https://hexed.it)
 
 **\[Games\]**
 - [Townscraper](https://oskarstalberg.com/Townscaper)
@@ -53,4 +56,4 @@ My personal favorites
 - [D3wasm](https://wasm.continuation-labs.com/d3demo/)
 - [Cracking the Cryptic - Spreadsheet](https://docs.google.com/spreadsheets/d/1rVqAjm-l_Urjd3TNmIc3SmTmz_OlgSoBuhY7RPgiuRg/edit#gid=1360888032)
 - [Bitburner](https://danielyxie.github.io/bitburner/)
-
+- [Shapez.io](https://shapez.io/)
