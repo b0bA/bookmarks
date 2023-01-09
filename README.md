@@ -49,6 +49,9 @@ My personal favorites
 - [Graphtoy](https://graphtoy.com/)
 - [Shadertoy](https://www.shadertoy.com/)
 - [Hexed.it](https://hexed.it)
+- [RegEx 101](https://regex101.com/)
+- [WebVM](https://webvm.io/)
+- [Paintz.app](https://paintz.app/)
 
 **\[Games\]**
 - [Townscraper](https://oskarstalberg.com/Townscaper)
