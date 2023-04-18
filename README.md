@@ -17,6 +17,7 @@ My personal favorites
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 - [Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts)
 - [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+- [Programming Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 
 
 **\[Music\]**
